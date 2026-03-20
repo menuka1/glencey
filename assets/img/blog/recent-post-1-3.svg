@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#f8ede8"/>
+  <polygon points="150,50 230,150 70,150" fill="#e8a65c" opacity="0.75"/>
+  <circle cx="150" cy="100" r="30" fill="#fff" opacity="0.8"/>
+  <text x="150" y="110" font-size="18" text-anchor="middle" fill="#e8a65c" font-family="Arial">Recent 3</text>
+</svg>

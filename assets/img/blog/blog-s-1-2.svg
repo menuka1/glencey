@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f0e8f8"/>
+  <rect x="150" y="100" width="500" height="300" fill="#9b6ba9" opacity="0.8"/>
+  <circle cx="400" cy="250" r="80" fill="none" stroke="#fff" stroke-width="4"/>
+  <text x="400" y="260" font-size="32" font-weight="bold" text-anchor="middle" fill="#fff" font-family="Arial">Blog Image 2</text>
+  <text x="400" y="300" font-size="16" text-anchor="middle" fill="#9b6ba9" font-family="Arial">HVAC Maintenance</text>
+</svg>

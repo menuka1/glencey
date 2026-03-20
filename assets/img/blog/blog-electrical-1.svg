@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f8f5e8"/>
+  <rect x="150" y="100" width="300" height="200" fill="#d9a04d" opacity="0.8" rx="10"/>
+  <rect x="180" y="130" width="240" height="140"/>
+  <circle cx="220" cy="170" r="25" fill="none" stroke="#d9a04d" stroke-width="3"/>
+  <circle cx="300" cy="170" r="25" fill="none" stroke="#d9a04d" stroke-width="3"/>
+  <circle cx="380" cy="170" r="25" fill="none" stroke="#d9a04d" stroke-width="3"/>
+  <text x="300" y="360" font-size="18" text-anchor="middle" fill="#d9a04d" font-family="Arial">GFCI Outlet</text>
+</svg>

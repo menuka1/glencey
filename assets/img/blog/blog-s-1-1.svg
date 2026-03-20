@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e8f4f8"/>
+  <circle cx="400" cy="250" r="100" fill="#3ba9e8" opacity="0.8"/>
+  <rect x="200" y="100" width="400" height="300" fill="none" stroke="#3ba9e8" stroke-width="3"/>
+  <text x="400" y="260" font-size="32" font-weight="bold" text-anchor="middle" fill="#3ba9e8" font-family="Arial">Blog Image 1</text>
+  <text x="400" y="300" font-size="16" text-anchor="middle" fill="#666" font-family="Arial">Kitchen Handyman Services</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f8f5e8"/>
+  <rect x="150" y="100" width="500" height="300" fill="#d9a04d" opacity="0.85"/>
+  <path d="M350 150 L400 250 L350 280 L350 310 M400 250 L450 280 L400 310 L400 250" fill="#fff" opacity="0.9" stroke="#ffff00" stroke-width="3"/>
+  <text x="400" y="360" font-size="28" font-weight="bold" text-anchor="middle" fill="#fff" font-family="Arial">Electrical Safety</text>
+</svg>

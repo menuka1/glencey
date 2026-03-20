@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#d4e8f5"/>
+  <circle cx="150" cy="200" r="50" fill="#2a7ba9" opacity="0.8"/>
+  <rect x="250" y="150" width="300" height="100" fill="#2a7ba9" opacity="0.8" rx="10"/>
+  <path d="M150 250 L150 320 L200 320 L200 250" fill="#2a7ba9" opacity="0.7" stroke="#1a5a89" stroke-width="3"/>
+  <text x="300" y="360" font-size="18" text-anchor="middle" fill="#2a7ba9" font-family="Arial">Water Shut-off Valve</text>
+</svg>

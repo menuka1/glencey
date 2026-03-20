@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e8f5f8"/>
+  <rect x="150" y="100" width="500" height="300" fill="#2a7ba9" opacity="0.85"/>
+  <path d="M300 150 Q300 200 350 250 Q300 280 300 320" fill="none" stroke="#fff" stroke-width="12"/>
+  <circle cx="350" cy="250" r="20" fill="#ff6b6b"/>
+  <text x="400" y="270" font-size="28" font-weight="bold" text-anchor="middle" fill="#fff" font-family="Arial">Emergency Plumbing</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#e8f4f8"/>
+  <circle cx="150" cy="100" r="60" fill="#3ba9e8" opacity="0.75"/>
+  <rect x="50" y="40" width="200" height="120" fill="none" stroke="#3ba9e8" stroke-width="2"/>
+  <text x="150" y="110" font-size="18" text-anchor="middle" fill="#3ba9e8" font-family="Arial">Recent 1</text>
+</svg>

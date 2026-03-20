@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#e8e8e8"/>
+  <circle cx="100" cy="70" r="40" fill="#999" opacity="0.8"/>
+  <path d="M60 130 Q100 110 140 130 L140 180 Q100 200 60 180 Z" fill="#999" opacity="0.8"/>
+  <circle cx="100" cy="60" r="35" fill="#bbb"/>
+  <text x="100" y="150" font-size="14" text-anchor="middle" fill="#666" font-family="Arial">Author</text>
+</svg>
