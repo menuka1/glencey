@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
-  <rect width="800" height="500" fill="#f8ede8"/>
-  <rect x="100" y="80" width="600" height="340" fill="#e8a65c" opacity="0.8"/>
-  <polygon points="400,120 500,320 300,320" fill="#fff" opacity="0.9"/>
-  <text x="400" y="260" font-size="32" font-weight="bold" text-anchor="middle" fill="#fff" font-family="Arial">Blog Image 3</text>
-  <text x="400" y="300" font-size="16" text-anchor="middle" fill="#e8a65c" font-family="Arial">Electrical Safety</text>
-</svg>
