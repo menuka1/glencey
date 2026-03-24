@@ -7598,6 +7598,8 @@ a.text-theme:hover,
 }
 .sidebar-gallery .gallery-thumb img {
   width: 100%;
+  height: 100%; 
+  object-fit: cover;
 }
 .sidebar-gallery .gallery-thumb:hover:before {
   -webkit-transform: scaleX(1);
@@ -9148,6 +9150,9 @@ ol.wp-block-rss {
 }
 .th-widget-instagram .insta-thumb img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
+
 }
 .th-widget-instagram .insta-thumb:before {
   content: "";
