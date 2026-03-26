@@ -23400,6 +23400,11 @@ span.select2-selection.select2-selection--single:focus {
   border-radius: 24px;
   overflow: hidden;
 }
+.service-card .box-img img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 @media (max-width: 1299px) {
   .service-card .box-thumb img {
     width: 100%;
@@ -23537,6 +23542,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 .service-slider .swiper-slide {
   margin-top: 30px;
+  position: relative;
 }
 .service-slider .slider-pagination-wrap {
   display: -webkit-box;
