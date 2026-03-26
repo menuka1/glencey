@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
-  <rect width="600" height="400" fill="#f5e8d4"/>
-  <rect x="80" y="60" width="440" height="280" fill="#d9a04d" opacity="0.7"/>
-  <circle cx="300" cy="200" r="70" fill="#fff" opacity="0.8"/>
-  <rect x="240" y="140" width="120" height="120" fill="#d9a04d" opacity="0.9"/>
-  <text x="300" y="210" font-size="24" text-anchor="middle" fill="#fff" font-family="Arial">Inner Image 2</text>
-</svg>
