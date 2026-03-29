@@ -10673,17 +10673,17 @@ ol.wp-block-rss {
     margin: 0;
   }
 }
-.header-default .menu-area .container-fulid {
+.header-default .menu-area .container-fluid {
   max-width: 1680px;
   margin: 0 auto;
 }
 @media (max-width: 1690px) {
-  .header-default .menu-area .container-fulid {
+  .header-default .menu-area .container-fluid {
     padding: 0 10px;
   }
 }
 @media (max-width: 1399px) {
-  .header-default .menu-area .container-fulid {
+  .header-default .menu-area .container-fluid {
     padding: 0 13px;
   }
 }
