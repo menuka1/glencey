@@ -30063,3 +30063,117 @@ span.select2-selection.select2-selection--single:focus {
 }
 /*------------------- RTL -------------------*/
 /*# sourceMappingURL=style.css.map */
+
+/* Responsive improvements for mobile and tablet */
+@media (max-width: 1199px) {
+  .th-header .container,
+  .th-header .container-fluid {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .hero-style1,
+  .hero-style2 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .service-card,
+  .service-card.style2 {
+    padding: 28px 20px;
+  }
+
+  .service-card .box-title a {
+    font-size: 24px;
+    line-height: 1.25;
+  }
+
+  .service-card .box-text {
+    max-width: 100%;
+  }
+
+  .th-social a,
+  .icon-btn,
+  .circle-tag {
+    width: 44px;
+    height: 44px;
+  }
+}
+
+@media (max-width: 767px) {
+  .hero-style1 {
+    padding-top: 180px;
+    padding-bottom: 120px;
+  }
+
+  .hero-style1 .hero-title,
+  .hero-style2 .hero-title,
+  .hero-2 .hero-title {
+    font-size: clamp(2rem, 8vw, 3.2rem);
+    line-height: 1.15;
+  }
+
+  .hero-style1 .hero-text,
+  .hero-style2 .hero-text,
+  .hero-2 .hero-text {
+    font-size: 15px;
+    line-height: 1.7;
+  }
+
+  .hero-style1 .btn-wrap,
+  .hero-style2 .btn-wrap,
+  .hero-2 .btn-wrap {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+  }
+
+  .hero-style1 .th-btn,
+  .hero-style2 .th-btn,
+  .hero-2 .th-btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .service-card,
+  .service-card.style2 {
+    margin-bottom: 24px;
+  }
+
+  .service-card .box-img {
+    margin-top: 24px;
+  }
+
+  .th-contact-form,
+  .th-appointment-form,
+  .newsletter-form {
+    padding: 20px;
+  }
+
+  .footer-widget {
+    margin-bottom: 24px;
+  }
+}
+
+@media (max-width: 575px) {
+  .th-header .container,
+  .th-header .container-fluid {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .hero-style1,
+  .hero-style2,
+  .hero-2 .hero-style1 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .service-card .box-title a {
+    font-size: 20px;
+  }
+
+  .section-title {
+    margin-bottom: 24px;
+  }
+}
